@@ -211,10 +211,10 @@ input:checked + .slider:before {
   transform: translateX(26px);
 }
 .log{
-	content:url(https://raw.githubusercontent.com/rohitpandey8899/mySite/main/images/logo.png?token=ALBNRAO6HPACSS3QNF7AXNDABUN3G);
+	content:url(https://raw.githubusercontent.com/rohitpandey8899/Abhimanyu/main/images/logo.png);
 }
 .log-c{
-	content:url(https://raw.githubusercontent.com/rohitpandey8899/mySite/main/images/logo_cl.png?token=ALBNRAI35JUCVBV4FE7PEQDABUODM);
+	content:url(https://raw.githubusercontent.com/rohitpandey8899/Abhimanyu/main/images/logo.png);
 }
 
 	.dark-mode {
